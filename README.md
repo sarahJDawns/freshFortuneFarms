@@ -1,6 +1,12 @@
-## Sample Website
+## Website
 
-To demonstrate responsive design and Tailwind CSS.
+Demonstrates responsive design and Tailwind CSS.
+
+---
+
+![img](images/freshFortuneFarmSet.png)
+
+---
 
 ### Built With
 

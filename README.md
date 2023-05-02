@@ -4,7 +4,7 @@ Demonstrates responsive design and Tailwind CSS.
 
 ---
 
-![img](images/freshFortuneFarmSet.png)
+![img](images/freshFortuneSet.png)
 
 ---
 
